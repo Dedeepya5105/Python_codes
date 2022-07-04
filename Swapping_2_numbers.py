@@ -1,4 +1,4 @@
-#Swapping 2 numbers
+#Swapping 2 numbers without temp
 
 print("Before Swapping")
 a = int(input("Enter a number: "))
